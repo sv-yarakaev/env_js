@@ -1,0 +1,19 @@
+{
+  "name": "env_hx",
+  "version": "0.1.0",
+  "description": "Environmetn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sv-yarakaev/env_js.git"
+  },
+  "author": "Stv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sv-yarakaev/env_js/issues"
+  },
+  "homepage": "https://github.com/sv-yarakaev/env_js#readme"
+}
